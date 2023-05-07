@@ -2,8 +2,6 @@
 
 Automatically generates Blogs using GPT-2 AI model.
 
-Frontend in React.js, Backend in Django REST Framework.
-
-To run server
+From terminal use the following command to run the app,
 
 ```python3 manage.py runserver```
